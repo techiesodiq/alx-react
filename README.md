@@ -1,3 +1,2 @@
 # alx-react
-# This is a read me file 
-Project built by Sodiq Akanmu
+# This is a read me file by Sodiq Akanmu
